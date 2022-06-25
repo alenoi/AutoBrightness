@@ -14,3 +14,4 @@ At the start you will be ask about:
 
 # Depemdencies
 The script uses the Automate framework for Android. Details: https://llamalab.com/automate/
+Download: https://play.google.com/store/apps/details?id=com.llamalab.automate&referrer=utm_source%3Dhomepage
