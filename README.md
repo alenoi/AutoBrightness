@@ -7,6 +7,7 @@ To set up the flow please check and set the variable blocks in the beginning of 
   - minBrightness: the lowest brightness percentage your screen will be at (range 0.00-1.00) 
   - maxBrightness: the highest brightness percentage your screen will be at (range 0.00-1.00) 
   - screenNits: the maximum brightness in nits your screen can light up at (check the device's specification)  
+
 At the start you will be ask about:
   - Speed: how smoothly and slowly the new brightness will be set (1 instantaneously - 10 slowly) 
   - Sensitivity: affects the amount pf the maximum needed ambient light for 100% brightness. Default 5 is balanced, 1 will get your screen bright faster and 10 will cause a way longer spectrum and so a dimmer screen.
